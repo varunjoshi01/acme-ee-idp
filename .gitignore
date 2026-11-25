@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.DS_Store
+
+# rebuilt by: scripts/make_sample_docs.py --volume 500
+data/volume/
+
+# kept local, not part of the repo
+blog/
+scripts/make_blog_figures.py
